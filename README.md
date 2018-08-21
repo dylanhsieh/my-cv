@@ -6,17 +6,17 @@ email : kimkapha@gmail.com
 * Job Description
     * Develop & Maintain Shopping Plus E-commerce system
         * Developed Shoppingplus Membership feature
-            * DB schema design, unit testing, phpdoc, api doc
+            * DB schema design, unit testing, phpdoc, api doc
         * Integrated FETnet service
             * Integrated fetnet CSP service, parse CSP push log for memberhsip control.
         * Developed Shoppingplus CouponPlus feature
             * DB schema design, Preventing Race Condition, Unit test, phpdoc, api doc.
         * Developed Shoppingplus Welfare feature
-            * Integrated Mayo welfare service, Mayo welfare api acceptance, build UAT environment.
+            * Integrated Mayo welfare service, Mayo welfare api acceptance, build UAT environment.
 
     * Develop & Maintain YPLAY mobile game introduction website.
         * Build YPLAY Nginx + PHP-FPM system
-            * Use mongoDB database, redis cache, and php5 build backend architecture.
+            * Use mongoDB database, redis cache, and php5 build backend architecture.
         * Developed YPLAY frontend page
             * Use Angular framework build frontend page.
         * Developed YPLAY frontend deploy tool
