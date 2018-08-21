@@ -33,11 +33,11 @@ email : kimkapha@gmail.com
         * Improve MailGates log system by umising Sqlite database.
     * Develop & Maintain MailAudit
         * Developed ZIP encryption feature
-            * Parse mail content, and detach attachment then encrypt it, enclose the encrypt attachment to original mail.
+            * Parse mail content, and detach attachment then encrypt it, enclose the encrypt attachment to original mail.
         * Developed PDF encryption feature
             * Analysis mail content and transfer each part into pdf then enclose the pdf to a notification.
         * Developed attachment to link feature
-            *  Parse mail content, and detach attachment then encrypt it, after encrypt it, create a unique link which can download the encrypted attachment, then send a notification to include the link for the user.
+            *  Parse mail content, and detach attachment then encrypt it, after encrypt it, create a unique link which can download the encrypted attachment, then send a notification to include the link for the user.
         * Solved some existing issues.
 
 * Achieves
@@ -68,7 +68,7 @@ email : kimkapha@gmail.com
 ## <center> Education </center>
 
 **Ｍaster of Computer Science and Information Engineering**
-* National Taiwan Normal University 2008 - 2010
+* National Taiwan Normal University 2008 - 2010
 * Win Silver medal in Chinese Dark Chess, 2010, Kanazawa
 
 **Bachelor of Computer Science and Information Engineering**
