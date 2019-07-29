@@ -21,8 +21,6 @@ email : kimkapha@gmail.com
             * Use Angular framework build frontend page.
         * Developed YPLAY frontend deploy tool
             * Use shell script write deploy tool which can upload file, backup, and restore.
-    * Achieves
-        * Led Shoppingplus Scrum backend team.
 
 **Openfind Information Technology,: Senior Software Engineer, 2011/11 - 2015/03**
 
