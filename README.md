@@ -1,7 +1,29 @@
 ## <center> Dylan Hsieh </center>
+## <center> 謝政孝 </center>
 email : kimkapha@gmail.com
 ## <center> Experiences </center>
-**Yuan Shi Digital Technology: Principal Software Engineer, 2015/06 -**
+**LeadBest Consulting Group: Expert Engineer, 2019/09 - **
+
+* Job Description
+    * Develop & Maintain e-health system
+        * Develop & Maintain health records api
+           * Lead 2 members
+           * Api Develop
+           * Database Schema design
+
+        * Develop & Maintain GPS Trackers System for the Elderly
+            * Build local develop environment
+            * Build continuous deployment
+            * Reduce usage of google place api
+            * Reduce system complexity
+
+    * Develop & Maintain Mercedes-Benz Pass.
+        * Api develop
+        * Database Schema design
+        * Mock api server
+        * Create AWS Alarms
+
+**Yuan Shi Digital Technology: Principal Software Engineer, 2015/06 -2019/09**
 
 * Job Description
     * Develop & Maintain Shopping Plus E-commerce system
@@ -38,24 +60,20 @@ email : kimkapha@gmail.com
             *  Parse mail content, and detach attachment then encrypt it, after encrypt it, create a unique link which can download the encrypted attachment, then send a notification to include the link for the user.
         * Solved some existing issues.
 
-* Achieves
-    * Win third place in the programming contest twice
 -------------------     ----------------------------
+## <center> Certificates </center>
+**Professional Cloud Architect:**
+* [Certificate](https://www.credential.net/a2e7f0f3-b5c8-4c23-9557-920b34057137)
+
 ## <center> Skills </center>
 **System:**
-* Unix, Windows, Mac OS, Docker
+* Unix, Windows, Mac OS, Docker, Docker compose
 
 **Database:**
 * MySQL, MongoDB,  SQLite
 
 **Programming Language:**
-* C, HTML, CSS,  PHP, Perl, Javascript, shell script
-
-**Debug tool:**
-* vdebug, gdb,  strace,  valgrind
-
-**Code quality analysis tool:**
-* phpcs, phpmd, phpstan, phpcpd
+* C, HTML, CSS,  PHP (Phalcon, CodeIgniter, laravel), Perl, Javascript, shell script
 
 **Revision control:**
 * git
@@ -65,7 +83,7 @@ email : kimkapha@gmail.com
 * English : very good command
 ## <center> Education </center>
 
-**Ｍaster of Computer Science and Information Engineering**
+**Master of Computer Science and Information Engineering**
 * National Taiwan Normal University 2008 - 2010
 * Win Silver medal in Chinese Dark Chess, 2010, Kanazawa
 
