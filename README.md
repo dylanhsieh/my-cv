@@ -2,7 +2,7 @@
 ## <center> 謝政孝 </center>
 email : kimkapha@gmail.com
 ## <center> Experiences </center>
-**LeadBest Consulting Group: Expert Engineer, 2019/09 - **
+**LeadBest Consulting Group: Expert Engineer, 2019/09 -**
 
 * Job Description
     * Develop & Maintain e-health system
