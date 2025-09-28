@@ -1,21 +1,43 @@
 ## <center> Dylan Hsieh </center>
 ## <center> 謝政孝 </center>
-email : kimkapha@gmail.com
+email : dylan.xie.tw@gmail.com
 ## <center> Experiences </center>
-**LeadBest Consulting Group: Expert Engineer, 2019/09 -**
+**LeadBest Consulting Group: Expert Engineer, 2019/09 - 2025/07**
 
 * Job Description
+    * Develop & Maintain Donkin Meme-Coin AI System
+           * Developed and maintained a meme-coin recommendation AI system
+           * Employed GCP infrastructure: Vertex AI, Datastore (for predictions), Cloud Functions (Python / Flask, generative AI)
+           * Integrated multiple news and data sources to fetch trending cryptocurrency information on the Solana blockchain
+           * Utilized LangChain and function calling to orchestrate multi-step data retrieval and response generation (including language translation and information synthesis)
+    * Develop & Maintain LINE I Agent System
+           * Developed and maintained an AI agent for the LINE messaging platform
+           * Leveraged GCP technologies: Vertex AI, Datastore, Cloud Functions (Python / Flask, generative AI)
+           * Built an admin dashboard with Laravel Filament for editing and managing agents
+           * Created webhook endpoints to integrate with the LINE agent
+           * Implemented RAG (Retrieval-Augmented Generation) functionality: allowed users to upload documents (PDF, DOCX), and then query information from those documents via the AI agent
+    * Develop & Maintain Yulon Kernel system (including sso, points , payment gateway, admin)
+	       * Led a team of 4 engineers in development and maintenance
+	       * Built using PHP (Laravel)
+	       * Designed Single Sign-On (SSO) system with social login integration(fb, google, line, apple) and associated member services
+	       * Developed a points (reward) system: earning, spending, and querying points
+	       * Integrated payment gateway (mainly with Taishin) and ensured system compliance with PCI standards (for credit card)
+	       * Created an admin backend delivering functionalities such as user management, data analytics, and reporting
+    * Develop & Maintain presurgmedia system (醫材推薦系統)
+           * Led a team of 2 engineers in development and maintenance
+           * Built a CMS for publishing articles and a frontend API for article delivery (PHP, Laravel, Twill)
+           * Developed SEO features and social media post previews using Prerender and deployed via GCP Cloud Run
     * Develop & Maintain e-health system
         * Develop & Maintain health records api
-           * Lead 2 members
+           * Led 2 engineers
            * Api Develop
            * Database Schema design
 
         * Develop & Maintain GPS Trackers System for the Elderly
-            * Build local develop environment
-            * Build continuous deployment
-            * Reduce usage of google place api
-            * Reduce system complexity
+           * Build local develop environment
+           * Build continuous deployment
+           * Reduce usage of google place api
+           * Reduce system complexity
 
     * Develop & Maintain Mercedes-Benz Pass.
         * Api develop
