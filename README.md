@@ -2,6 +2,18 @@
 ## <center> 謝政孝 </center>
 email : dylan.xie.tw@gmail.com
 ## <center> Experiences </center>
+**[YouThought Corporation](https://www.youthought.com.tw/) (宇清數位智慧): Software Engineer, 2025/10 - Present**
+
+* Job Description
+    * u-APS (Advanced Planning & Scheduling) System Design & Development
+        * Designed and developed APS system for smart factory production planning and scheduling
+    * AI Development Flow Integration
+        * Integrated AI-driven workflows into the production planning system
+    * CI Flow Integration
+        * Built and maintained continuous integration pipelines for development workflow
+    * Automated Testing
+        * Developed and maintained automated testing frameworks to ensure system quality
+
 **LeadBest Consulting Group: Expert Engineer, 2019/09 - 2025/07**
 
 * Job Description
@@ -120,6 +132,18 @@ email : dylan.xie.tw@gmail.com
 email : dylan.xie.tw@gmail.com
 
 ## <center> 工作經歷 </center>
+
+**[宇清數位智慧](https://www.youthought.com.tw/)（YouThought Corporation）：軟體工程師，2025/10 - 至今**
+
+* 工作內容
+    * u-APS（先進規劃排程）系統設計與開發
+        * 設計與開發智慧工廠生產規劃排程系統
+    * AI 開發流程整合
+        * 將 AI 驅動工作流程整合至生產規劃系統
+    * CI 持續整合流程建置
+        * 建立與維護持續整合流水線，優化開發工作流程
+    * 自動化測試
+        * 開發與維護自動化測試框架，確保系統品質
 
 **LeadBest 顧問集團：專家工程師，2019/09 - 2025/07**
 
