@@ -142,11 +142,11 @@ email : dylan.xie.tw@gmail.com
         * 開發點數（獎勵）系統：累積、消費與查詢點數
         * 串接金流（主要與台新銀行），確保系統符合 PCI 信用卡安全標準
         * 建立管理後台，提供使用者管理、資料分析與報表功能
-    * 開發與維護 presurgmedia 醫材推薦系統
+    * 開發與維護 [presurgmedia](https://www.presurgmedia.com) 醫材推薦系統（手術善其事）
         * 帶領 2 位工程師進行開發與維護
         * 建立 CMS 發布文章系統及前端文章 API（PHP、Laravel、Twill）
         * 開發 SEO 功能與社群貼文預覽，使用 Prerender 並部署於 GCP Cloud Run
-    * 開發與維護 e-health 健康管理系統
+    * 開發與維護 [e-health 健康管理系統](https://wwlts.org/ehealth/)（榮華愛心科技 — 香港長者健康資訊平台）
         * 開發與維護健康紀錄 API
             * 帶領 2 位工程師
             * API 開發
@@ -156,13 +156,13 @@ email : dylan.xie.tw@gmail.com
             * 建立持續部署流程
             * 降低 Google Place API 使用量
             * 降低系統複雜度
-    * 開發與維護 Mercedes-Benz Pass
+    * 開發與維護 Mercedes-Benz Pass（賓士暢行）
         * API 開發
         * 資料庫 Schema 設計
         * Mock API Server
         * 建立 AWS 告警機制
 
-**元世數位科技：主任工程師，2015/06 - 2019/09**
+**遠時數位科技：主任工程師，2015/06 - 2019/09**
 
 * 工作內容
     * 開發與維護 Shopping Plus 電商系統
@@ -200,7 +200,7 @@ email : dylan.xie.tw@gmail.com
 
 ---
 ## <center> 證照 </center>
-**Google Professional Cloud Architect：**
+**Google Professional Cloud Architect（Google 雲端架構師）：**
 * [證書連結](https://www.credential.net/a2e7f0f3-b5c8-4c23-9557-920b34057137)
 
 ## <center> 技術能力 </center>
@@ -224,7 +224,9 @@ email : dylan.xie.tw@gmail.com
 
 **資訊工程學系碩士**
 * 國立臺灣師範大學，2008 - 2010
-* 2010 年金澤電腦暗棋競賽銀牌
+* AI 電腦暗棋競賽 — 程式名稱：「Dark Chess Beta」
+    * 第 15 屆 Computer Olympiad 第二名，金澤，2010/10
+    * TAAI 2010 競賽，2010/09
 
 **資訊工程學系學士**
 * 國立臺灣科技大學，2003 - 2008
