@@ -85,7 +85,7 @@ email : dylan.xie.tw@gmail.com
 -------------------     ----------------------------
 ## <center> Certificates </center>
 **Professional Cloud Architect:**
-* [Certificate](https://www.credential.net/a2e7f0f3-b5c8-4c23-9557-920b34057137)
+* Certificate (expired)
 
 ## <center> Skills </center>
 **System:**
@@ -201,7 +201,7 @@ email : dylan.xie.tw@gmail.com
 ---
 ## <center> 證照 </center>
 **Google Professional Cloud Architect（Google 雲端架構師）：**
-* [證書連結](https://www.credential.net/a2e7f0f3-b5c8-4c23-9557-920b34057137)
+* 證書（已過期）
 
 ## <center> 技術能力 </center>
 **作業系統：**
