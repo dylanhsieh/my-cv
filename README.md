@@ -224,8 +224,9 @@ email : dylan.xie.tw@gmail.com
 
 **資訊工程學系碩士**
 * 國立臺灣師範大學，2008 - 2010
-* 世界電腦暗棋錦標賽 — 程式名稱：「Dark Chess Beta」
-    * 第 15 屆 Computer Olympiad 世界亞軍，日本金澤，2010/10
+* ICGA 世界電腦奧林匹亞競賽（Computer Olympiad）— 暗棋項目
+    * 程式名稱：「DarkChess Beta」（作者：謝政孝、顏士淨）
+    * 第 15 屆 Computer Olympiad 銀牌，日本金澤，2010/10
     * TAAI 2010 競賽，2010/09
 
 **資訊工程學系學士**
