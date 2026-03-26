@@ -2,7 +2,7 @@
 ## <center> 謝政孝 </center>
 email : dylan.xie.tw@gmail.com
 ## <center> Experiences </center>
-**[YouThought Corporation](https://www.youthought.com.tw/) (宇清數位智慧): Software Engineer, 2025/10 - Present**
+**[YouThought Corporation](https://www.youthought.com.tw/) (宇清數位智慧): Manager, 2025/10 - Present**
 
 * Job Description
     * u-APS (Advanced Planning & Scheduling) System Design & Development
@@ -133,7 +133,7 @@ email : dylan.xie.tw@gmail.com
 
 ## <center> 工作經歷 </center>
 
-**[宇清數位智慧](https://www.youthought.com.tw/)（YouThought Corporation）：軟體工程師，2025/10 - 至今**
+**[宇清數位智慧](https://www.youthought.com.tw/)（YouThought Corporation）：經理，2025/10 - 至今**
 
 * 工作內容
     * u-APS（先進規劃排程）系統設計與開發
